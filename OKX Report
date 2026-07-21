@@ -1,0 +1,7 @@
+Entermatching engine was engineered for high-throughput futures contracts, introducing sophisticated margin models and risk-mitigation layers to handle volatile leverage spikes.
+​The Structural Flaw: In the pursuit of rapid derivatives dominance, the early architecture coupled high-frequency leveraged clearing directly with core ledger accounting. During severe market contractions, this tight coupling triggered cascading liquidations and occasional platform congestion, revealing the classic "coder's illusion" of mistaking throughput speed for architectural isolation.
+​2. The Expansion and Architectural Stress Phase (2020–2022)
+​As the crypto economy transitioned into the 2020–2022 bull and bear cycles, OKX scaled its infrastructure horizontally, introducing multi-currency margining and complex global matching nodes.
+​Systemic Adaptation: To survive high-volatility shocks, the exchange deployed advanced risk-reserve pools and automated deleveraging (ADL) protocols. However, these mechanisms operated as reactive patches rather than deterministic, mathematically isolated settlement states.
+​The Assessment: Our independent research indicates that while this era successfully cemented the platform’s liquidity depth, it accumulated significant technical debt regarding fault containment during unprecedented market liquidation events.
+OKX okx OKX Singapore
