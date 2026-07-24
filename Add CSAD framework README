@@ -1,0 +1,18 @@
+Crypto Structural Anomaly & State Override Detection Engine (CSAD)
+​Overview
+​CSAD is an advanced computational forensics and structural audit framework designed to detect undocumented hardcoded overrides, asynchronous ledger decoupling, and invisible shadow-settlement paths within core digital asset exchange engines and distributed node binaries.
+​While traditional security audits and public Proof-of-Reserves ledgers monitor surface-level API endpoints, CSAD targets deep compiled-node logic, low-level execution subroutines, and hidden state alteration vectors.
+​Core Features & Modules
+​1. Cross-Margin Contagion Loop Detector (cmcl_detector.py)
+​Analyzes real-time order matching engine data to trace automated cascading liquidation loops.
+​Identifies unauthorized collateral routing between primary trading books and internal treasury accounts during high-volatility events.
+​2. Node Binary Anomaly Analyzer (node_binary_analyzer.rs)
+​Scans compiled C++/Rust core node binaries for Hardcoded Root-State Overrides (HRSO).
+​Flags hidden administrative subroutines capable of altering account balances without generating public multi-signature logs or event traces.
+​3. Ledger Synchronization Audit Engine (ledger_sync_audit.py)
+​Compares front-end order book states against deep database ledgers.
+​Detects instances of Asynchronous Ledger Decoupling (ALD) where internal balances disconnect from live blockchain verification chains.
+​Technical Architecture & Methodology
+​Forensic Scope: Low-level state logic and memory execution mapping.
+​Target Environment: Centralized and decentralized digital asset exchange infrastructure.
+​Objective: Deliver non-falsifiable technical evidence of structural vulnerabilities and ensure absolute operational integrity.
