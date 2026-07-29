@@ -1,0 +1,16 @@
+# Forensic Architecture & Digital Asset Research Repository
+
+Welcome to the official repository of advanced forensic audits, latency scanners, structural stabilization frameworks, and anomaly detection engines tailored for digital assets and exchange architectures. 
+
+## 🔍 Core Focus Areas
+* **Exchange & Smart Contract Forensic Audits:** In-depth structural risk assessments of major platforms (including Binance, OKX, and decentralized protocols).
+* **Latency & Arbitrage Engines:** Python-based scripts designed to map latency arbitrage cycles and synthetic liquidity anomalies (`latency_arbitrage_scanner.py`, `csad_engine.py`).
+* **Architectural Stabilization Frameworks:** Protocols and compliance models built to ensure systemic resilience, transparency, and risk mitigation in Web3.
+
+## 📂 Key Modules & Files
+* **`csad_engine.py` & `latency_analyzer.py`:** Advanced anomaly detection and latency tracking tools.
+* **Forensic Reports:** Comprehensive case studies on exchange vulnerabilities and synthetic liquidity flows.
+* **Audit Templates:** Standardized frameworks for exchange security and systemic risk evaluations.
+
+---
+*Dedicated to building a secure, transparent, and resilient digital financial architecture.*
